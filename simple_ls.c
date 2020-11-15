@@ -3,7 +3,7 @@
  *    Author:V.Koroy
  *  Вс ноя 15 15:15:43 MSK 2020
  *****************************/
-//   gcc -std=c11  -o simple_ls ls.c
+//   gcc -std=c11 -o ls simple_ls .c
 
 #include <stdio.h>
 #include <dirent.h>
